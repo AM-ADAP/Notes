@@ -32,9 +32,9 @@ It's a good idea to deactivate caching plugins to prevent any caching issues.
 
 ### 6. Update Themes and Plugins
 
-`sudo wp theme update --all` -> Updates all Themes
-`sudo wp plugin update --all` -> Updates all Plugins
-`sudo wp plugin update dorito frito`-> Updates specified plugin by name of plugin; works with themes too
+`sudo wp theme update --all` -> Updates all Themes <br>
+`sudo wp plugin update --all` -> Updates all Plugins <br>
+`sudo wp plugin update dorito frito`-> Updates specified plugin by name of plugin; works with themes too <br>
 
 ### 7. Enable Caching
 
